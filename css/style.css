@@ -1,0 +1,151 @@
+.background {
+    background: #154572;
+    justify-content: center;
+}
+
+.container {
+    width: 1200px;
+}
+
+.logo {
+    height: 36px;
+    width: 113px;
+}
+
+.containerBlock {
+    background-color: white;
+    border-radius: 25px;
+    padding: 12px;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+
+.jumbotron {
+    padding: 0px !important;
+}
+
+.appendTop30 {
+    margin-top: 30px;
+}
+
+.landingContainer {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.footNav {
+    padding: 20px 0;
+}
+
+.latoBlack {
+    font-weight: 900;
+}
+
+.font10 {
+    font-size: 10px;
+    line-height: 10px;
+}
+
+.capText {
+    text-transform: uppercase;
+}
+
+.footNav__list {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding-inline-start: 0px;
+}
+
+.footNav__list li {
+    display: inline-block;
+}
+
+.aboutMMT {
+    background: #e7e7e7;
+    padding: 60px 0;
+}
+
+section {
+    display: block;
+}
+
+.landingContainer {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.aboutMMT .grid {
+    flex-wrap: wrap;
+}
+
+.aboutMMT .grid .aboutDesc:nth-child(1),
+.aboutMMT .grid .aboutDesc:nth-child(2) {
+    margin-top: 0px;
+}
+
+.aboutMMT .grid .aboutDesc:nth-child(odd) {
+    padding-right: 6%;
+}
+
+.aboutMMT .grid .aboutDesc:nth-child(1),
+.aboutMMT .grid .aboutDesc:nth-child(2) {
+    margin-top: 0;
+}
+
+.aboutMMT .grid .aboutDesc:nth-child(odd) {
+    padding-right: 6%;
+}
+
+.aboutMMT .grid .aboutDesc {
+    width: 50%;
+    margin-top: 44px;
+    padding-bottom: 28px;
+    border-bottom: solid 1px #979797;
+}
+
+.aboutMMT .grid .aboutDesc {
+    width: 50%;
+    margin-top: 44px;
+    padding-bottom: 28px;
+    border-bottom: solid 1px #979797;
+}
+
+.aboutMMT .aboutDesc .heading {
+    letter-spacing: 0.31px;
+}
+
+.blackText {
+    color: #000000;
+}
+
+.latoBold {
+    font-weight: 700;
+}
+
+.appendBottom25 {
+    margin-bottom: 25px;
+}
+
+.lineHeight16 {
+    line-height: 16px;
+}
+
+.makeFlex {
+    display: flex;
+}
+
+.font16 {
+    font-size: 16px;
+    line-height: 16px;
+}
